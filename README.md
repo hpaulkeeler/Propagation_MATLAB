@@ -1,6 +1,7 @@
 # Propagation_MATLAB
 
 If you use this code in published work, please cite paper[1] as listed below.
+
 Summary:
 
 Under the standard power law path loss model, this code demonstrates how a two-tier cellular network can be viewed as a one-tier isotropic network. 
